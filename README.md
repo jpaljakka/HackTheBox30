@@ -1,14 +1,14 @@
 # 30 Days of Hack The Box - My Cybersecurity Journey
 
-Welcome to my repository documenting my 30-day adventure with Hack The Box (HTB)! I'm BinaryNomad, a tech enthusiast and curious learner diving into the world of cybersecurity.
+Welcome to my repository documenting my 30-day adventure with Hack The Box (HTB)! I'm BinaryNomad, a tech enthusiast and curious learner diving into the world of cyber security.
 
 ## About This Project
 
-This journey is about more than just solving puzzles on HTB. It's a personal quest to explore the depths of cybersecurity, expand my skillset, and unlock my potential in the digital realm. Each day, I'll be tackling different challenges on HTB, and this repository will serve as a log of my progress, insights, and reflections.
+This journey is about more than just solving puzzles on HTB. It's a personal quest to explore the depths of cyber security, expand my skillset, and unlock my potential in the digital realm. Each day, I'll be tackling different challenges on HTB, and this repository will serve as a log of my progress, insights, and reflections.
 
 ### What to Expect
 
-- **Daily Updates**: Every day, I'll update this repository with my latest achievements, challenges faced, and new learnings.
+- **Daily Updates**: Every day, I'll update this repository with my latest achievements, challenges faced, and new learnings (Just heads up i also have family so take daily updates with the grain of salt).
 - **Resource Sharing**: I'll share useful resources, tips, and tricks that I come across during my journey.
 - **Personal Reflections**: Insights into my thought process, struggles, and victories as I navigate through the complex world of HTB.
 

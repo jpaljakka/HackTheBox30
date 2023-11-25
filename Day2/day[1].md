@@ -1,9 +1,9 @@
 # Day 2: Exploring Web Requests and HTTP Fundamentals
 
 Today's focus is a deep dive into the technicalities of web requests and HTTP, essential tools in the toolkit of cyber security professional.
-First courses are very simple and if you have any history of software development or any background related to IT, you'll find them easy
-For me, i had already experience in field of software development. But cURL is not something i use daily, however the headers, response codes and request methods are familiar for me
-so this was mostly about getting hang of cURL commands
+First courses are very simple if you have any history of software development or any background related to IT, you'll find them easy.
+I have already experience in field of software development, But cURL is not something i use daily, however the headers, response codes and request methods are familiar for me
+so this was mostly about getting known of cURL
 
 ## Achievements of the Day:
 
